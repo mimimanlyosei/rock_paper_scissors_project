@@ -28,14 +28,18 @@ It's a two-out-of-three Rock, Paper, Scissors game where you play against the co
 1. Clone this repo or download the file
 2. Open your terminal and run:
 
+
+## ✨ Why It Matters
+
+This was my first game!
+It pushed me to think through logic, structure code cleanly, and balance fun with functionality. It reminded me that learning can be playful and powerful.
+
+## 👩🏾‍💻 Author
+
+Built by Mimi during her Python journey on Mimo — one round at a time 💖
+GitHub: github.com/mimimanlyosei
+
 ```bash
 python3 main.py
 
 
-✨ Why It Matters
-This was my first game!
-It pushed me to think through logic, structure code cleanly, and balance fun with functionality. It reminded me that learning can be playful and powerful.
-
-👩🏾‍💻 Author
-Built by Mimi during her Python journey on Mimo — one round at a time 💖
-GitHub: github.com/mimimanlyosei
